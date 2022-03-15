@@ -8,6 +8,6 @@ tf-slim==1.1.0
 ml-metadata==0.26.0
 keras-tuner==1.0.3
 mock==4.0.3
-hi==12
+hi==13
 hi1==12
 hi2==12
