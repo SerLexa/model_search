@@ -8,6 +8,12 @@ tf-slim==1.1.0
 ml-metadata==0.26.0
 keras-tuner==1.0.3
 mock==4.0.3
+<<<<<<< HEAD
 hi3==13
 hi4==13
 hi5==13
+=======
+hi==12
+hi1==12
+hi2==12
+>>>>>>> branch1
